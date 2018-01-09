@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\android-project\Orienteering\library\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.1"
+        sha1="08406aed8dfb61b1ced7ac6a0251ef6921673fb4">
+        <dex dex="G:\android-project\Orienteering\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+
+</items>
